@@ -1,0 +1,6 @@
+{
+  "ServerDisabled": "Server is disabled.",
+  "ServerIsFull": "Server is full.",
+  "ServerIsEmpty": "Nobody playing now.",
+  "ServerHasPlayers": "Playing {op}/{mp}."
+}
