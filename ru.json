@@ -1,0 +1,6 @@
+{
+  "ServerDisabled": "Сервер выключен.",
+  "ServerIsFull": "Сервер переполнен..",
+  "ServerIsEmpty": "Сейчас никто не играет.",
+  "ServerHasPlayers": "Игроков {op}/{mp}."
+}
